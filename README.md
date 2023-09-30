@@ -1,5 +1,5 @@
 # temperature-control-system
-A system to control the motors and temperature for ATMega32 using c has been implemented.
+A system to control the motors and temperature. The implemention is for ATMega32 using c.
 The schema is as follows:
 
 ![atmega](https://github.com/nikimajidifard/temperature-control-system/assets/56204470/4993d253-cbbd-4a76-a75e-39a4dac49928)
